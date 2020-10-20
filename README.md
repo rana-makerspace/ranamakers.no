@@ -1,4 +1,4 @@
-![CI](https://github.com/rana-makerspace/ranamakers.no/workflows/CI/badge.svg?branch=main)
+![CI](https://github.com/rana-makerspace/ranamakers.no/workflows/CI/badge.svg?branch=main) ![Test](https://github.com/rana-makerspace/ranamakers.no/workflows/Test/badge.svg)
 # Ranamakers.no
 
 Dette er det som kanskje, en gang, blir nye ranamakers.no (?)
