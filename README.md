@@ -1,4 +1,4 @@
-![CI](https://github.com/rana-makerspace/ranamakers.no/workflows/CI/badge.svg?branch=main) ![Test](https://github.com/rana-makerspace/ranamakers.no/workflows/Test/badge.svg)
+![Test](https://github.com/rana-makerspace/ranamakers.no/workflows/Test/badge.svg)  ![Build](https://github.com/rana-makerspace/ranamakers.no/workflows/Build/badge.svg?branch=main)
 
 Github Actions kan ta seg en jævla bolle.
 # Ranamakers.no
