@@ -1,4 +1,6 @@
 ![CI](https://github.com/rana-makerspace/ranamakers.no/workflows/CI/badge.svg?branch=main) ![Test](https://github.com/rana-makerspace/ranamakers.no/workflows/Test/badge.svg)
+
+Github Actions kan ta seg en jævla bolle.
 # Ranamakers.no
 
 Dette er det som kanskje, en gang, blir nye ranamakers.no (?)
